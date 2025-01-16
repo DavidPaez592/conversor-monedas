@@ -42,6 +42,3 @@ En general, el conversor de monedas es una herramienta útil y práctica para cu
        - Convertir de Won sul-coreano a Peso colombiano
        
 ![cunidades](https://user-images.githubusercontent.com/123501294/236914545-3f4692a0-d773-4c26-b2c3-5ae930c17f55.png)
-
-## :white_check_mark:Tecnologias utilizadas
-       - Java
